@@ -4,8 +4,9 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 =================================================================================================================================
 
 <br/>
-As a junior MERN developer, my goal is to create engaging and intuitive web applications that enhance user experience and drive business success. I am eager to expand my skills and explore new technologies to bring innovative ideas to my life.
-<br/>
+As a junior MERN developer, my goal is to create engaging and intuitive web applications that enhance user experience and drive business success. I am eager to expand my skills and explore new technologies to bring innovative ideas to my life. <br/>
+
+
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [keya-moni.vercel.app](http://keya-moni.vercel.app/)
 * ✉️  You can contact me at [keya05866@gmail.com](mailto:keya05866@gmail.com)
