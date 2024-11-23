@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperbat.com/img/820081-powerful-technologies-in-1-mern-stack.jpg))]
+[MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperbat.com/img/820081-powerful-technologies-in-1-mern-stack.jpg))
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Keya Moni
 =================================================================================================================================
 As a junior MERN developer, my goal is to create engaging and intuitive web applications that enhance user experience and drive business success. I am eager to expand my skills and explore new technologies to bring innovative ideas to my life.
