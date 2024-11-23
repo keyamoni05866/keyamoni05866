@@ -1,7 +1,6 @@
 [MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperbat.com/img/820081-powerful-technologies-in-1-mern-stack.jpg))
 
-Hi!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/>
-I am Keya Moni
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Keya Moni
 =================================================================================================================================
 
 <br/>
