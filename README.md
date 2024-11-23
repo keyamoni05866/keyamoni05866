@@ -1,9 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keya Moni
-=================================================================================================================================
 
+ <img align="center"  alt="GIF" src="[./assets/full-stack-development.gif](https://wallpaperaccess.com/full/8901660.jpg)">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Keya Moni
 MERN STACK Developer
---------------------
-
+=================================================================================================================================
 As a junior MERN developer, my goal is to create engaging and intuitive web applications that enhance user experience and drive business success. I am eager to expand my skills and explore new technologies to bring innovative ideas to my life.
 
 * 🌍  I'm based in Bangladesh
