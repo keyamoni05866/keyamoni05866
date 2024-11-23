@@ -29,10 +29,9 @@ As a junior MERN developer, my goal is to create engaging and intuitive web appl
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyamoni05866&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="keyamoni05866" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keyamoni05866&show_icons=true&locale=en" alt="keyamoni05866" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyamoni05866&show_icons=true&locale=en&layout=compact" alt="keyamoni05866" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyamoni05866&show_icons=true&locale=en" alt="keyamoni05866" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyamoni05866&" alt="keyamoni05866" /></p>
 
