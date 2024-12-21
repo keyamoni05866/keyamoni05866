@@ -1,5 +1,5 @@
 
-  <img src="https://i.imgur.com/hhmxRc8.png" alt="Banner" width="1000" height="360"   />
+ ![Banner](https://i.imgur.com/hhmxRc8.png)
 
 
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Keya Moni
